@@ -1,0 +1,5 @@
+com\blucodes\unsoldly\controller\CompanyControllerTest.class
+com\blucodes\unsoldly\controller\ProductCategoryControllerTest.class
+com\blucodes\unsoldly\controller\ProductForSaleControllerTest.class
+com\blucodes\unsoldly\controller\ProductControllerTest.class
+com\blucodes\unsoldly\UnsoldlyApplicationTests.class
